@@ -1,0 +1,9 @@
+venv/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+.DS_Store
+Thumbs.db
+*.png
+*.jpg
