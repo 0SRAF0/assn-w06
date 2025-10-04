@@ -71,13 +71,11 @@ Contract type also matters (two-year contracts reduce churn), but demographics l
 
 ### Short-term Actions
 
-**Focus on new customers.** The first year is critical. Tenure is the second most important feature, so implementing better onboarding for customers in their first 6-12 months could help. Regular check-ins, exclusive new customer perks, or dedicated account managers might work.
+**Focus on new customers.** The first year is most important. Tenure is the second most important feature, so implementing better customer care for customers in their first 6-12 months could help. Regular check-ins, exclusive new customer perks, or dedicated account managers etc.
 
-**Look into fiber optic service.** If fiber customers are churning more, something's wrong. Either the service quality isn't matching the price, competitors have better fiber offerings, or the value proposition isn't clear. This needs investigation.
+**Look into fiber optic service.** If fiber customers are churning more, something's wrong. Either the service quality isn't matching the price, competitors have better fiber offerings, or something else.
 
-**Fix the electronic check experience.** People using electronic checks churn more. Maybe the process is tedious.Incentivizing automatic payment methods could help.
-
-**Price sensitivity for high spenders.** Customers with both high monthly charges and high total charges are at risk. These are valuable customers who might be shopping around.
+**Fix the electronic check experience.** People using electronic checks churn more. Maybe the process is tedious. Incentivizing automatic payment methods might help.
 
 ### Future Improvements
 
