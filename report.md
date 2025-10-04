@@ -35,6 +35,9 @@ The model hit 79.28% accuracy with an AUC of 0.831. Breaking down the metrics:
 - **F1-Score: 57.31%** - Balanced metric between precision and recall
 - **AUC: 0.831** - Strong ability to separate churners from non-churners
 
+ROC Curve: 
+<img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/2a84c21a-d7ff-4ef5-afe3-7bdef6595885" />
+
 ### Confusion Matrix Breakdown
 
 | | Predicted No Churn | Predicted Churn |
@@ -49,9 +52,9 @@ The recall being only 52% means we're missing almost half the churners. Dependin
 ---
 
 ## Feature Importance
+<img width="1057" height="547" alt="image" src="https://github.com/user-attachments/assets/925862d1-d50c-4015-aa70-da58fe9aca45" />
 
 The top predictors are mostly financial:
-
 1. **TotalCharges (18.5%)** - How much they've spent over their lifetime
 2. **tenure (17.6%)** - How long they've been a customer
 3. **MonthlyCharges (15.9%)** - Current monthly bill
